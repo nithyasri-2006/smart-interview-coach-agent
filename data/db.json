@@ -1,0 +1,345 @@
+{
+  "users": [
+    {
+      "id": "77fbeb57-7103-498a-a644-3d57f0a33f2c",
+      "name": "nithya",
+      "email": "nithyasrinithyasri104@gmail.com",
+      "passwordHash": "eea388c35ffe9780ed32648d11983977:30f57f64bc10cdeb3010c6d81f7bb971dca9bc950c9f1ec219c69a64b04cf3e8fcc4bb9223e1b1f81c05267a1108622a9ca784aa6a472a8f819bf2dbe256d273",
+      "createdAt": "2026-07-04T18:31:25.161Z"
+    }
+  ],
+  "resumes": [
+    {
+      "id": "fe119635-064a-490c-adc8-29698b228dce",
+      "userId": "77fbeb57-7103-498a-a644-3d57f0a33f2c",
+      "fileName": "resume (2).pdf",
+      "extractedText": "[Binary PDF Document Ingested]",
+      "analysis": {
+        "candidateName": "Alex Mercer",
+        "technicalSkills": [
+          "TypeScript",
+          "React",
+          "Node.js",
+          "Express",
+          "Tailwind CSS",
+          "MongoDB",
+          "SQL"
+        ],
+        "softSkills": [
+          "Communication",
+          "Problem Solving",
+          "Teamwork",
+          "Adaptability",
+          "Time Management"
+        ],
+        "strengths": [
+          "Excellent Full Stack web foundations",
+          "Solid React component optimization",
+          "Eager to learn"
+        ],
+        "weakAreas": [
+          "System Design",
+          "Cloud Infrastructure (AWS/GCP)",
+          "CI/CD Pipelines",
+          "Docker"
+        ],
+        "missingSkills": [
+          "Kubernetes",
+          "Redis",
+          "Kafka",
+          "Unit Testing (Jest/Cypress)"
+        ],
+        "recommendedTopics": [
+          "Node.js Performance Optimization",
+          "Database Indexing & Queries",
+          "Advanced State Management"
+        ],
+        "experienceSummary": "Full Stack Engineer with 2+ years of experience building modern web applications.",
+        "educationSummary": "B.S. in Computer Science"
+      },
+      "createdAt": "2026-07-04T18:40:21.322Z"
+    }
+  ],
+  "interviews": [
+    {
+      "id": "8a08ff8e-0d88-4dcf-9a27-ddfcd80939ef",
+      "userId": "77fbeb57-7103-498a-a644-3d57f0a33f2c",
+      "jobRole": "software engineer",
+      "experienceLevel": "Mid-Level",
+      "difficultyLevel": "Medium",
+      "questions": [
+        {
+          "id": "q-1",
+          "question": "As a Mid-Level software engineer, how do you optimize the loading and rendering performance of a heavy, content-rich web application?",
+          "category": "Technical",
+          "hint": "Talk about code splitting, lazy loading, asset optimization, caching strategies, and virtualization."
+        },
+        {
+          "id": "q-2",
+          "question": "Tell me about a time you had to deal with a major technical bug or system outage right before a critical launch. How did you resolve it?",
+          "category": "Behavioral",
+          "hint": "Use the STAR method: Situation, Task, Action, Result. Focus on composure and structured debugging."
+        },
+        {
+          "id": "q-3",
+          "question": "Why do you want to join our company as a developer, and what values do you bring to a cross-functional squad?",
+          "category": "HR",
+          "hint": "Connect your career goals with modern full-stack workflows and express excitement for collaborative product engineering."
+        },
+        {
+          "id": "q-4",
+          "question": "Describe the most complex project you have engineered. What architecture choices did you make, and what would you do differently today?",
+          "category": "Project-Based",
+          "hint": "Clearly structure the service diagram, highlight trade-offs (e.g., SQL vs NoSQL, serverless vs containers), and show hindsight reflection."
+        },
+        {
+          "id": "q-5",
+          "question": "Write or describe an optimal algorithm to find the longest substring without repeating characters in a given string. What is its time complexity?",
+          "category": "Coding",
+          "hint": "Explain the sliding window technique with left/right pointers and a hash map. Aim for O(n) runtime complexity."
+        }
+      ],
+      "isCompleted": true,
+      "createdAt": "2026-07-04T18:33:29.595Z"
+    },
+    {
+      "id": "9ce93333-81fd-4dff-836e-d6c5b52138a6",
+      "userId": "77fbeb57-7103-498a-a644-3d57f0a33f2c",
+      "jobRole": "full stack developer",
+      "experienceLevel": "Mid-Level",
+      "difficultyLevel": "Medium",
+      "questions": [
+        {
+          "id": "q-1",
+          "question": "As a Mid-Level full stack developer, how do you optimize the loading and rendering performance of a heavy, content-rich web application?",
+          "category": "Technical",
+          "hint": "Talk about code splitting, lazy loading, asset optimization, caching strategies, and virtualization."
+        },
+        {
+          "id": "q-2",
+          "question": "Tell me about a time you had to deal with a major technical bug or system outage right before a critical launch. How did you resolve it?",
+          "category": "Behavioral",
+          "hint": "Use the STAR method: Situation, Task, Action, Result. Focus on composure and structured debugging."
+        },
+        {
+          "id": "q-3",
+          "question": "Why do you want to join our company as a developer, and what values do you bring to a cross-functional squad?",
+          "category": "HR",
+          "hint": "Connect your career goals with modern full-stack workflows and express excitement for collaborative product engineering."
+        },
+        {
+          "id": "q-4",
+          "question": "Describe the most complex project you have engineered. What architecture choices did you make, and what would you do differently today?",
+          "category": "Project-Based",
+          "hint": "Clearly structure the service diagram, highlight trade-offs (e.g., SQL vs NoSQL, serverless vs containers), and show hindsight reflection."
+        },
+        {
+          "id": "q-5",
+          "question": "Write or describe an optimal algorithm to find the longest substring without repeating characters in a given string. What is its time complexity?",
+          "category": "Coding",
+          "hint": "Explain the sliding window technique with left/right pointers and a hash map. Aim for O(n) runtime complexity."
+        }
+      ],
+      "isCompleted": false,
+      "createdAt": "2026-07-04T18:40:50.368Z"
+    }
+  ],
+  "evaluations": [
+    {
+      "id": "67c8d37d-d530-4677-969c-83ea642a1361",
+      "interviewId": "8a08ff8e-0d88-4dcf-9a27-ddfcd80939ef",
+      "userId": "77fbeb57-7103-498a-a644-3d57f0a33f2c",
+      "questionId": "q-1",
+      "questionText": "As a Mid-Level software engineer, how do you optimize the loading and rendering performance of a heavy, content-rich web application?",
+      "answerText": "\"When optimizing the loading and rendering performance of a content-rich web application, I focus on reducing the initial load time and ensuring a smooth user experience.\n\nFirst, I use code splitting to divide the application into smaller bundles, so users only download the JavaScript required for the current page instead of the entire application. Along with this, I implement lazy loading for routes, images, and heavy components, ensuring they load only when needed.\n\nNext, I optimize assets by compressing images, using modern formats like WebP, minifying JavaScript and CSS, and enabling Gzip or Brotli compression. This reduces the amount of data transferred over the network.\n\nI also use effective caching strategies. Browser caching, CDN caching, and cache-control headers help avoid downloading the same resources repeatedly, which significantly improves repeat visit performance.\n\nFor pages with large datasets, I implement virtualization using libraries such as React Window or React Virtualized. Instead of rendering thousands of items, only the visible items are rendered, reducing memory usage and improving scrolling performance.\n\nAdditionally, I optimize API calls by implementing pagination, filtering, and debouncing search requests to minimize unnecessary network traffic. I also monitor performance using tools like Chrome DevTools, Lighthouse, and Core Web Vitals to identify bottlenecks and continuously improve the application.\n\nOverall, by combining code splitting, lazy loading, asset optimization, caching, virtualization, and continuous performance monitoring, I can significantly improve both the loading speed and rendering performance while maintaining a responsive user experience.\"\n",
+      "evaluation": {
+        "overallScore": 95,
+        "technicalScore": 97,
+        "communicationScore": 92,
+        "confidenceScore": 96,
+        "strengths": [
+          "Clear terminology usage",
+          "Direct answer to the prompt",
+          "Expresses practical engineering experiences"
+        ],
+        "weaknesses": [
+          "Could explain specific algorithmic or architectural trade-offs in deeper detail",
+          "Slight lack of structural pacing"
+        ],
+        "correctAnswer": "The ideal response should outline a clear structured methodology (e.g., STAR framework for behavioral or system-level analysis for technical) with concrete metrics of success.",
+        "improvementSuggestions": [
+          "Incorporate solid industry standards (e.g., specific React hooks or node cluster modes)",
+          "Structure behavioral replies strictly into Situation, Action, and Quantitative Result."
+        ]
+      },
+      "createdAt": "2026-07-04T18:35:19.820Z"
+    },
+    {
+      "id": "715a2f00-3546-4115-b918-dc01fd5bc3c7",
+      "interviewId": "8a08ff8e-0d88-4dcf-9a27-ddfcd80939ef",
+      "userId": "77fbeb57-7103-498a-a644-3d57f0a33f2c",
+      "questionId": "q-2",
+      "questionText": "Tell me about a time you had to deal with a major technical bug or system outage right before a critical launch. How did you resolve it?",
+      "answerText": "Situation: During the development of my Smart Interview Coach project, just before a demo, we found a major issue where the application failed to generate interview questions. Users could start a session, but the next question wasn't loading because the backend couldn't connect to the AI service when the API key was missing.\n\nTask: My goal was to quickly identify the root cause, restore the application's core functionality, and ensure the demo could proceed without interruptions.\n\nAction: I started by checking the server logs and found that the Gemini API key wasn't configured. Instead of relying entirely on the external API, I implemented a fallback mechanism that returned predefined mock interview questions whenever the AI service was unavailable. I also improved the error handling so users received a meaningful message instead of the application crashing. Finally, I tested the complete interview flow multiple times to ensure everything worked reliably.\n\nResult: The application became stable enough for the demo, and users could complete the interview flow even without an active AI API key. This experience taught me the importance of graceful error handling, logging, fallback mechanisms, and thoroughly testing critical features before deployment.",
+      "evaluation": {
+        "overallScore": 95,
+        "technicalScore": 97,
+        "communicationScore": 92,
+        "confidenceScore": 96,
+        "strengths": [
+          "Clear terminology usage",
+          "Direct answer to the prompt",
+          "Expresses practical engineering experiences"
+        ],
+        "weaknesses": [
+          "Could explain specific algorithmic or architectural trade-offs in deeper detail",
+          "Slight lack of structural pacing"
+        ],
+        "correctAnswer": "The ideal response should outline a clear structured methodology (e.g., STAR framework for behavioral or system-level analysis for technical) with concrete metrics of success.",
+        "improvementSuggestions": [
+          "Incorporate solid industry standards (e.g., specific React hooks or node cluster modes)",
+          "Structure behavioral replies strictly into Situation, Action, and Quantitative Result."
+        ]
+      },
+      "createdAt": "2026-07-04T18:36:05.928Z"
+    },
+    {
+      "id": "d41e45eb-045e-4b71-8ba2-2de99c4cf315",
+      "interviewId": "8a08ff8e-0d88-4dcf-9a27-ddfcd80939ef",
+      "userId": "77fbeb57-7103-498a-a644-3d57f0a33f2c",
+      "questionId": "q-3",
+      "questionText": "Why do you want to join our company as a developer, and what values do you bring to a cross-functional squad?",
+      "answerText": "\"I want to join your company because of its strong focus on innovation, continuous learning, and building high-quality software that creates real value for users. I'm looking for an environment where I can work on challenging projects, learn from experienced engineers, and continuously improve my technical and problem-solving skills while contributing to the team's success.\n\nIn a cross-functional squad, I bring a collaborative mindset, a willingness to learn, and a strong sense of ownership. During my academic projects, such as developing an AI-based Smart Interview Coach, I worked on both the frontend and backend, communicated effectively, accepted feedback, and focused on delivering features on time. I believe clear communication, respect for different perspectives, and supporting teammates are just as important as technical skills.\n\nI also value writing clean, maintainable code, staying open to feedback, and continuously learning new technologies. My goal is to contribute positively to the team while growing into a reliable software engineer who helps deliver quality products.\"",
+      "evaluation": {
+        "overallScore": 95,
+        "technicalScore": 97,
+        "communicationScore": 92,
+        "confidenceScore": 96,
+        "strengths": [
+          "Clear terminology usage",
+          "Direct answer to the prompt",
+          "Expresses practical engineering experiences"
+        ],
+        "weaknesses": [
+          "Could explain specific algorithmic or architectural trade-offs in deeper detail",
+          "Slight lack of structural pacing"
+        ],
+        "correctAnswer": "The ideal response should outline a clear structured methodology (e.g., STAR framework for behavioral or system-level analysis for technical) with concrete metrics of success.",
+        "improvementSuggestions": [
+          "Incorporate solid industry standards (e.g., specific React hooks or node cluster modes)",
+          "Structure behavioral replies strictly into Situation, Action, and Quantitative Result."
+        ]
+      },
+      "createdAt": "2026-07-04T18:36:45.843Z"
+    },
+    {
+      "id": "80847d48-3a33-4feb-bd56-169ef60f210a",
+      "interviewId": "8a08ff8e-0d88-4dcf-9a27-ddfcd80939ef",
+      "userId": "77fbeb57-7103-498a-a644-3d57f0a33f2c",
+      "questionId": "q-4",
+      "questionText": "Describe the most complex project you have engineered. What architecture choices did you make, and what would you do differently today?",
+      "answerText": "The most complex project I've built is an AI-powered Smart Interview Coach. I designed it with a React and TypeScript frontend and a separate backend that manages interview sessions and AI integration. I chose a modular architecture by separating the UI, business logic, and AI service, making the code easier to maintain and extend. I also implemented error handling and fallback responses so the application remained usable even if the AI service was unavailable. Looking back, I would add authentication, a production database like PostgreSQL, automated testing, Docker, and a CI/CD pipeline to make it more scalable and production-ready",
+      "evaluation": {
+        "overallScore": 95,
+        "technicalScore": 97,
+        "communicationScore": 92,
+        "confidenceScore": 96,
+        "strengths": [
+          "Clear terminology usage",
+          "Direct answer to the prompt",
+          "Expresses practical engineering experiences"
+        ],
+        "weaknesses": [
+          "Could explain specific algorithmic or architectural trade-offs in deeper detail",
+          "Slight lack of structural pacing"
+        ],
+        "correctAnswer": "The ideal response should outline a clear structured methodology (e.g., STAR framework for behavioral or system-level analysis for technical) with concrete metrics of success.",
+        "improvementSuggestions": [
+          "Incorporate solid industry standards (e.g., specific React hooks or node cluster modes)",
+          "Structure behavioral replies strictly into Situation, Action, and Quantitative Result."
+        ]
+      },
+      "createdAt": "2026-07-04T18:37:22.771Z"
+    },
+    {
+      "id": "e97fb15e-0c26-4508-9de5-87cbd6d62e11",
+      "interviewId": "8a08ff8e-0d88-4dcf-9a27-ddfcd80939ef",
+      "userId": "77fbeb57-7103-498a-a644-3d57f0a33f2c",
+      "questionId": "q-5",
+      "questionText": "Write or describe an optimal algorithm to find the longest substring without repeating characters in a given string. What is its time complexity?",
+      "answerText": "An optimal solution uses the Sliding Window technique with a HashMap (or HashSet) to keep track of the characters currently in the substring.\n\nWe maintain two pointers:\n\nLeft pointer marks the start of the current substring.\nRight pointer expands the window by moving through the string.\n\nAs we move the right pointer:\n\nIf the character is not repeated, we add it to the map and update the maximum length.\nIf the character has already appeared within the current window, we move the left pointer to one position after the character's previous occurrence. This ensures the window always contains unique characters.\nWe continue until we've processed the entire string.\n\nSince each character is visited at most twice (once by the right pointer and once by the left pointer), the algorithm is very efficient.",
+      "evaluation": {
+        "overallScore": 95,
+        "technicalScore": 97,
+        "communicationScore": 92,
+        "confidenceScore": 96,
+        "strengths": [
+          "Clear terminology usage",
+          "Direct answer to the prompt",
+          "Expresses practical engineering experiences"
+        ],
+        "weaknesses": [
+          "Could explain specific algorithmic or architectural trade-offs in deeper detail",
+          "Slight lack of structural pacing"
+        ],
+        "correctAnswer": "The ideal response should outline a clear structured methodology (e.g., STAR framework for behavioral or system-level analysis for technical) with concrete metrics of success.",
+        "improvementSuggestions": [
+          "Incorporate solid industry standards (e.g., specific React hooks or node cluster modes)",
+          "Structure behavioral replies strictly into Situation, Action, and Quantitative Result."
+        ]
+      },
+      "createdAt": "2026-07-04T18:38:43.053Z"
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "a2a19cc1-9a65-4b20-9f5d-ad62264574a2",
+      "userId": "77fbeb57-7103-498a-a644-3d57f0a33f2c",
+      "weakAreas": [
+        "Full Stack Optimization",
+        "System Design"
+      ],
+      "courses": [
+        {
+          "title": "Pragmatic System Design & Microservices",
+          "provider": "ByteByteGo",
+          "url": "https://bytebytego.com",
+          "description": "Master real-world high-scalability software architectures, database sharding, caching, and rate limiters."
+        },
+        {
+          "title": "Full Stack Open: Cloud Ingress & Containerization",
+          "provider": "University of Helsinki",
+          "url": "https://fullstackopen.com",
+          "description": "Deep dive into Docker, Kubernetes, CI/CD pipelines, and robust production-ready web servers."
+        }
+      ],
+      "practiceProblems": [
+        {
+          "title": "Sliding Window Maximum & Longest Path",
+          "platform": "LeetCode",
+          "url": "https://leetcode.com",
+          "difficulty": "Hard"
+        },
+        {
+          "title": "Design a Distributed Message Queue",
+          "platform": "System Design Fight Club",
+          "url": "https://youtube.com",
+          "difficulty": "Medium"
+        }
+      ],
+      "books": [
+        {
+          "title": "Designing Data-Intensive Applications",
+          "author": "Martin Kleppmann",
+          "description": "The definitive guide to system design, covering database indexing, consensus algorithms, replication, and storage engines."
+        }
+      ],
+      "tips": [
+        "Dedicate 15 minutes daily to solving algorithm challenges using the sliding window or two-pointer techniques.",
+        "Conduct mock behavioral mock interviews in front of a mirror or record yourself to analyze posture, filler words, and speed.",
+        "In corporate evaluations, always frame architectural trade-offs as business decisions (e.g., developer productivity vs server cost)."
+      ],
+      "createdAt": "2026-07-04T18:31:25.298Z"
+    }
+  ]
+}

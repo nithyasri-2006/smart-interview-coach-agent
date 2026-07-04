@@ -1,0 +1,6 @@
+{
+  "name": "Smart Interview Coach Agent",
+  "description": "An AI-powered interview preparation platform where users upload resumes, receive personalized Gemini interview questions, answer questions with AI evaluations, view dynamic dashboards, and get custom learning recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
